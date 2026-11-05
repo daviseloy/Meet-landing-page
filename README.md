@@ -43,6 +43,8 @@ Durante o desenvolvimento, pratiquei:
 
 [Frontend Mentor - Meet Landing Page](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR)
 
+<img width="1365" height="767" alt="Captura de tela 2026-11-04 213853" src="https://github.com/user-attachments/assets/7fdefab1-a9f0-40f0-8ad5-d443a65bfb18" />
+
 ---
 
 Desenvolvido por **Davi Sobrinho Eloy**.
